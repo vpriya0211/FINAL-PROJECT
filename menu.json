@@ -1,0 +1,4 @@
+{
+    "1": {"name": "Burger", "price": 5.99, "quantity": 10, "discount": 0, "stock": 10},
+    "2": {"name": "Pizza", "price": 8.99, "quantity": 8, "discount": 5, "stock": 8},
+}

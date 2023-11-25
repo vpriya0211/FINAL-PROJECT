@@ -1,0 +1,9 @@
+{
+    "name": "CustomerName",
+    "email": "customer@example.com",
+    "password": "customerpassword",
+    "phone_number": "1234567890",
+    "address": "123 Main St",
+    "order_history": []
+  }
+  
